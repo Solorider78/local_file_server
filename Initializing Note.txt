@@ -1,8 +1,15 @@
 set FLASK_APP = server.py    # command 1
 set FLASK_ENV = development  # command 2 
 
+First you need to have Flask installed on your system after that you can follow the steps below:
 
 1. Run These Two lines of commands seperately in CMD 
 2. Place the files that you want to share in your local network in 'Uploads" folder.
 3. Then run 'python config.py'
 4. Now Run the server with 'python server.py'
+
+At the end of the 4th step it'll provide you with IP and port Number that all devices in the same network can access to .
+
+example: 192.168.1.5:369
+
+with opening this IP in your browser you'll be able to access to all the files 
