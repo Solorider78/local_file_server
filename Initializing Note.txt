@@ -12,4 +12,4 @@ At the end of the 4th step it'll provide you with IP and port Number that all de
 
 example: 192.168.1.5:369
 
-with opening this IP in your browser you'll be able to access to all the files 
+with opening this IP in your browser you'll be able to access all the files from any device in your network.
