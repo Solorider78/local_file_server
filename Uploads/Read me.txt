@@ -1,1 +1,1 @@
-Put Your Files in This Folder 
+Put Your Files in This Folder and remove this text file.
